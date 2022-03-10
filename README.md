@@ -1,4 +1,4 @@
 # Repositório do Desafio de Projeto sobre Git/Github
 Desafio de Projeto sobre Git/Github
 ## Links Uteis 
-{https://www.markdownguide.org/} (https://www.markdownguide.org/)
+[Sitaxe Basica Markdow] (https://www.markdownguide.org/)
